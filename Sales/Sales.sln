@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BackEnd", "BackEnd", "{752ED223-FDB2-4F51-ABB6-31B9EBD76087}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrontEnd", "FrontEnd", "{A5A19142-32B3-4C30-A262-FA645453765A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSales", "FrontEnd\WebSales\WebSales.csproj", "{15A83829-C524-4D29-A6F0-8465BF51EB0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15A83829-C524-4D29-A6F0-8465BF51EB0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15A83829-C524-4D29-A6F0-8465BF51EB0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15A83829-C524-4D29-A6F0-8465BF51EB0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15A83829-C524-4D29-A6F0-8465BF51EB0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{15A83829-C524-4D29-A6F0-8465BF51EB0D} = {A5A19142-32B3-4C30-A262-FA645453765A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39A15307-9518-4F5F-AA86-BFFE14DECB47}
+	EndGlobalSection
+EndGlobal
