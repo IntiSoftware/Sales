@@ -17,7 +17,7 @@ namespace WebSales.Data
 			},
 			new Product()
 			{
-				Name = "Samsung 10",
+				Name = "Samsung 7 Edge",
 				Description = "This phone is the company's biggest change to its flagship",
 				ImageFile = "product-2.png",
 				Price = 840.00M,
