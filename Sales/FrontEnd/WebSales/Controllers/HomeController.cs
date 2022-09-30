@@ -16,6 +16,7 @@ namespace WebSales.Controllers
 
 		public IActionResult Index()
 		{
+			//First Test Devops
 			return View(ProductContext.Products);
 		}
 
