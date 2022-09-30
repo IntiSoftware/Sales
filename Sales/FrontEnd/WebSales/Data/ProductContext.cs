@@ -9,7 +9,7 @@ namespace WebSales.Data
 
 			new Product()
 			{
-				Name = "I Phone 14 Pro",
+				Name = "I Phone 14 Pro Max",
 				Description = "This phone is the company's biggest change to its flagship",
 				ImageFile = "product-1.png",
 				Price = 950.00M,
